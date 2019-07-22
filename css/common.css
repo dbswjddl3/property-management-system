@@ -1,0 +1,47 @@
+.pc .wrapper {padding: 16px; font-size: 13px;}
+.pc table {font-size: 13px;}
+.mobile .w3-top.admin-top, .mobile .wrapper {font-size: xx-large!important;}
+.mobile table {font-size: x-large!important;}
+.mobile h1 {font-size: -webkit-xxx-large;}
+.mobile .btn,.mobile button {padding: 10px 20px; font-size: xx-large!important;}
+.mobile select, .mobile input[type=text], .mobile .gj-datepicker-bootstrap [role=right-icon] button .gj-icon{font-size: xx-large!important;}
+.mobile .wrapper-datepicker .custom-select {width: 200px}
+.mobile .wrapper-datepicker .gj-datepicker {width: 300px}
+.mobile .form-group .col-form-label{display: none;}
+.mobile .custom-file-container__custom-file__custom-file-control {height: 60px;}
+.wrapper-button {padding: 10px;text-align: center;}
+.wrpper-write-button {float: right;}
+.wrapper-datepicker {display: inline-flex;}
+.wrapper-datepicker select {width: 115px; margin-right: 5px}
+.wrapper-datepicker span.to_mark {width: 25px; line-height: 30px; text-align: center;}
+
+.row .img-fluid {width: 250px; height: 150px; padding-bottom: 10px;}
+
+a:hover {text-decoration: none; color: inherit;}
+input, select {height: calc(1.5em + .75rem + 2px);padding: .375rem .75rem;font-size: 1rem;font-weight: 400;line-height: 1.5;color: #495057;background-color: #fff;background-clip: padding-box;border: 1px solid #ced4da;border-radius: .25rem}
+input[type=text], input[type=password] {width: 100%;}
+p.content {white-space: pre; margin: 0px;}
+
+.gj-datepicker {width: 200px;}
+
+.w3-top.admin-top {position: initial;}
+.w3-dropdown-content {z-index: 10!important;}
+.w3-hover-shadow {height: 120px;}
+.w3-opacity.w3-hover-opacity-off {height: 120px;}
+
+.mySlides {display:none;}
+.progress {margin-top: 10px;}
+.btn-loading {display: none;}
+
+.custom-file-container {max-width: 400px;} 
+.custom-file-container__custom-file__custom-file-control__button {background-color: #fff!important}
+.single-file-wrapper .custom-file-container__image-preview {display: none;width: 250px;height: 200px;overflow: hidden;}
+
+.modal-header {display: inline;}
+.modal-body .custom-file-container {max-width: 100%;} 
+.selectable-event {cursor: pointer;}
+
+.note-editor.dragover .note-dropzone .note-dropzone-message {display: none!important;}
+
+.fc-day:hover{background:rgb(211, 238, 247);}
+.wrapper-captcha {width: 280px;}
